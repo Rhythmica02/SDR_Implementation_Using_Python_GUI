@@ -1,0 +1,14 @@
+# Development and Simulation of a Drone Swarm for Search and Rescue Operations
+
+## Overview
+This project focuses on the development and simulation of a drone swarm for search and rescue (SAR) operations. By utilizing advanced algorithms and technologies, the drone swarm can efficiently locate and assist in rescue missions, especially in areas difficult for humans to access.
+
+## Abstract
+Software-Defined Radio (SDR) technology has revolutionized radio communication systems. By enabling flexible manipulation of radio signals in software, SDR opens new possibilities for communication and signal processing. This project integrates SDR with a Python-based Graphical User Interface (GUI) to provide a user-friendly platform for controlling, visualizing, and interacting with SDR operations. The project's primary objective is to design and implement a Python GUI that interfaces seamlessly with SDR hardware and software, offering an intuitive way to configure and monitor radio signals.
+
+## Key Features
+- **Flexible Communication:** The SDR system adapts to various communication standards and frequency bands.
+- **Python GUI:** An intuitive graphical interface for controlling and monitoring SDR operations.
+- **Integration with SDR Hardware:** Utilizes popular SDR libraries and Python frameworks for seamless hardware and software interaction.
+- **Real-time Visualization:** Provides real-time visualization of radio signals and operations.
+
